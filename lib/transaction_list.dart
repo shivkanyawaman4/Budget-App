@@ -39,6 +39,8 @@ class TransactionList extends StatelessWidget {
                       ),
                     ),
                   ),
+
+
                   title: Text(
                     transactions[index].title,
                     // ignore: deprecated_member_use
